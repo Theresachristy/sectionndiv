@@ -1,0 +1,19 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width: 1100px;
+    
+    margin: 0 auto;
+}
+.support{
+    width: 250px;
+    height: 400px;
+    background-color: rgb(156, 175, 175);
+    float: left;
+    border: 1px solid black;
+    padding: 40px;
+    margin: 10px;
+    
+}
+    
